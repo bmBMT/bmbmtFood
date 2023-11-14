@@ -32,31 +32,41 @@
   "categories": [
     {
       "id": "1",
-      "title": "Mercado",
+      "title": "Роллы",
       "subcategory": [
         {
           "id": "1",
-          "title":  "1"
+          "title":  "Филадельфия"
+        },
+        {
+          "id": "1",
+          "title":  "Калифорния"
+        },
+        {
+          "id": "1",
+          "title":  "Запеченные"
+        },
+        {
+          "id": "1",
+          "title":  "Горячие"
+        },
+        {
+          "id": "1",
+          "title":  "Сладкие"
         }
       ]
     },
     {
       "id": "2",
-      "title": "Mercado",
+      "title": "Пицца",
       "subcategory": [
         {
           "id":  "1",
-          "title":  "1"
-        }
-      ]
-    },
-    {
-      "id": "3",
-      "title": "Mercado",
-      "subcategory": [
+          "title":  "Томатная"
+        },
         {
           "id":  "1",
-          "title":  "1"
+          "title":  "Сливочная"
         }
       ]
     }
