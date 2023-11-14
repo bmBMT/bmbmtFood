@@ -33,7 +33,7 @@
     {
       "id": "1",
       "title": "Роллы",
-      "subcategory": [
+      "subcategories": [
         {
           "id": "1",
           "title":  "Филадельфия"
@@ -59,7 +59,7 @@
     {
       "id": "2",
       "title": "Пицца",
-      "subcategory": [
+      "subcategories": [
         {
           "id":  "1",
           "title":  "Томатная"
