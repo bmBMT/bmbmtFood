@@ -61,11 +61,11 @@
       "title": "Пицца",
       "subcategories": [
         {
-          "id":  "1",
+          "id":  "q",
           "title":  "Томатная"
         },
         {
-          "id":  "2",
+          "id":  "w",
           "title":  "Сливочная"
         }
       ]
@@ -74,41 +74,38 @@
   "foods": [
     {
       "id": "1",
-      "subcategory": "",
-      "title": "Batata Frita",
-      "description": "Batata frita muito massa!",
-      "image": "https://static-images.ifood.com.br/image/upload/t_high/pratos/dbc629b1-71e7-406c-8959-d251540157f5/201907302128_YXOh_.jpeg",
-      "price": "R$ 16,00",
-      "mass": 12,
-      "services": ["1","2"]
-    },
-    {
-      "id": "2",
-      "title": "Batata Frita",
-      "description": "Batata frita muito massa!",
-      "image_url": "https://static-images.ifood.com.br/image/upload/t_high/pratos/dbc629b1-71e7-406c-8959-d251540157f5/201907302128_YXOh_.jpeg",
-      "price": "R$ 16,00"
-    },
-    {
-      "id": "3",
-      "title": "Batata Frita",
-      "description": "Batata frita muito massa!",
-      "image_url": "https://static-images.ifood.com.br/image/upload/t_high/pratos/dbc629b1-71e7-406c-8959-d251540157f5/201907302128_YXOh_.jpeg",
-      "price": "R$ 16,00"
-    },
-    {
-      "id": "4",
-      "title": "Batata Frita",
-      "description": "Batata frita muito massa!",
-      "image_url": "https://static-images.ifood.com.br/image/upload/t_high/pratos/dbc629b1-71e7-406c-8959-d251540157f5/201907302128_YXOh_.jpeg",
-      "price": "R$ 16,00"
-    },
-    {
-      "id": "5",
-      "title": "Batata Frita",
-      "description": "Batata frita muito massa!",
-      "image_url": "https://static-images.ifood.com.br/image/upload/t_high/pratos/dbc629b1-71e7-406c-8959-d251540157f5/201907302128_YXOh_.jpeg",
-      "price": "R$ 16,00"
+      "title": "Филадельфия сет",
+      "description": "Состав: 48 кусочков: филадельфия с лососем, филадельфия с угрем, ролл радужный, филадельфия с тунцом, филадельфия с лососем С/С, филадельфия с красной икрой",
+      "subcategory": "1",
+      "image": "/sushi.jpg",
+      "price": 2353,
+      "mass": 1395,
+      "services": [
+        { "title": "test", "id": "1"},
+        { "title": "123", "id": "2"},
+        { "title": "321312312312", "id": "3"},
+        { "title": "21312312", "id": "4"},
+        { "title": "22131231", "id": "5"},
+        { "title": "211251", "id": "6"},
+        { "title": "test", "id": "7"},
+        { "title": "123", "id": "8"},
+        { "title": "321312312312", "id": "9"},
+        { "title": "21312312", "id": "10"},
+        { "title": "22131231", "id": "11"},
+        { "title": "211251", "id": "12"},
+        { "title": "test", "id": "13"},
+        { "title": "123", "id": "14"},
+        { "title": "321312312312", "id": "15"},
+        { "title": "21312312", "id": "16"},
+        { "title": "22131231", "id": "17"},
+        { "title": "211251", "id": "18"},
+        { "title": "test", "id": "19"},
+        { "title": "123", "id": "20"},
+        { "title": "321312312312", "id": "21"},
+        { "title": "21312312", "id": "22"},
+        { "title": "22131231", "id": "23"},
+        { "title": "211251", "id": "24"}
+      ]
     }
   ]
 }
