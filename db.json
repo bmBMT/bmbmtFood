@@ -80,6 +80,7 @@
       "image": "/sushi.jpg",
       "price": 2353,
       "mass": 1395,
+      "discount": null,
       "services": [
         { "title": "test", "id": "1"},
         { "title": "123", "id": "2"}
@@ -93,6 +94,7 @@
       "image": "/sushi.jpg",
       "price": 2353,
       "mass": 1395,
+      "discount": 1000,
       "services": [
         { "title": "test", "id": "1"},
         { "title": "123", "id": "2"}
