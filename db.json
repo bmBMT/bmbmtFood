@@ -1,0 +1,104 @@
+{
+  "carousel": [
+    {
+      "image_url":"https://upsushi.goulash.tech/__/images/storage/6512aeab0a809.jpg",
+      "alt":"Mercado"
+    },
+    {
+      "image_url":"https://upsushi.goulash.tech/__/images/storage/6512aeab0a809.jpg",
+      "alt":"Entrega Grátis"
+    },
+    {
+      "image_url":"https://upsushi.goulash.tech/__/images/storage/6512aeab0a809.jpg",
+      "alt":"Descobertas"
+    },
+    {
+      "image_url":"https://upsushi.goulash.tech/__/images/storage/6512aeab0a809.jpg",
+      "alt":"Desconto"
+    }
+  ],
+  "servcies": [
+    {
+      "id": "1",
+      "title": "",
+      "price": 0
+    },
+    {
+      "id": "2",
+      "title": "",
+      "price": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "title": "Mercado",
+      "subcategory": [
+        {
+          "id": "1",
+          "title":  "1"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Mercado",
+      "subcategory": [
+        {
+          "id":  "1",
+          "title":  "1"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Mercado",
+      "subcategory": [
+        {
+          "id":  "1",
+          "title":  "1"
+        }
+      ]
+    }
+  ],
+  "foods": [
+    {
+      "id": "1",
+      "subcategory": "",
+      "title": "Batata Frita",
+      "description": "Batata frita muito massa!",
+      "image": "https://static-images.ifood.com.br/image/upload/t_high/pratos/dbc629b1-71e7-406c-8959-d251540157f5/201907302128_YXOh_.jpeg",
+      "price": "R$ 16,00",
+      "mass": 12,
+      "services": ["1","2"]
+    },
+    {
+      "id": "2",
+      "title": "Batata Frita",
+      "description": "Batata frita muito massa!",
+      "image_url": "https://static-images.ifood.com.br/image/upload/t_high/pratos/dbc629b1-71e7-406c-8959-d251540157f5/201907302128_YXOh_.jpeg",
+      "price": "R$ 16,00"
+    },
+    {
+      "id": "3",
+      "title": "Batata Frita",
+      "description": "Batata frita muito massa!",
+      "image_url": "https://static-images.ifood.com.br/image/upload/t_high/pratos/dbc629b1-71e7-406c-8959-d251540157f5/201907302128_YXOh_.jpeg",
+      "price": "R$ 16,00"
+    },
+    {
+      "id": "4",
+      "title": "Batata Frita",
+      "description": "Batata frita muito massa!",
+      "image_url": "https://static-images.ifood.com.br/image/upload/t_high/pratos/dbc629b1-71e7-406c-8959-d251540157f5/201907302128_YXOh_.jpeg",
+      "price": "R$ 16,00"
+    },
+    {
+      "id": "5",
+      "title": "Batata Frita",
+      "description": "Batata frita muito massa!",
+      "image_url": "https://static-images.ifood.com.br/image/upload/t_high/pratos/dbc629b1-71e7-406c-8959-d251540157f5/201907302128_YXOh_.jpeg",
+      "price": "R$ 16,00"
+    }
+  ]
+}
