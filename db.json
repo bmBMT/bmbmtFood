@@ -113,6 +113,20 @@
         {"title": "service5", "id": "9"},
         {"title": "service6", "id": "10"}
       ]
+    },
+    {
+      "id": "ghjghadasdj",
+      "title": "Пицци обычная",
+      "description": "состав: тест",
+      "subcategory": "w2",
+      "image": "https://creapills.com/wp-content/uploads/2023/11/pizza-hut-serpent-1.jpeg",
+      "price": 1099,
+      "mass": 300,
+      "discount": 899,
+      "services": [
+        {"title": "servic12e5", "id": "12231"},
+        {"title": "service12", "id": "wawd2130"}
+      ]
     }
   ]
 }
