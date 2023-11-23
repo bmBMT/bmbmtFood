@@ -36,23 +36,23 @@
       "subcategories": [
         {
           "id": "1",
-          "title":  "Филадельфия"
+          "title": "Филадельфия"
         },
         {
           "id": "2",
-          "title":  "Калифорния"
+          "title": "Калифорния"
         },
         {
           "id": "3",
-          "title":  "Запеченные"
+          "title": "Запеченные"
         },
         {
           "id": "4",
-          "title":  "Горячие"
+          "title": "Горячие"
         },
         {
           "id": "5",
-          "title":  "Сладкие"
+          "title": "Сладкие"
         }
       ]
     },
@@ -61,12 +61,12 @@
       "title": "Пицца",
       "subcategories": [
         {
-          "id":  "q1",
-          "title":  "Томатная"
+          "id": "q1",
+          "title": "Томатная"
         },
         {
-          "id":  "w2",
-          "title":  "Сливочная"
+          "id": "w2",
+          "title": "Сливочная"
         }
       ]
     }
@@ -82,8 +82,36 @@
       "mass": 1395,
       "discount": null,
       "services": [
-        {"title": "test", "id": "1"},
-        {"title": "123", "id": "2"}
+        {
+          "id": "1",
+          "title": "Дор Блю",
+          "mass": 30,
+          "price": 1016
+        },
+        {
+          "id": "2",
+          "title": "4 сыра",
+          "mass": 140,
+          "price": 262
+        },
+        {
+          "id": "3",
+          "title": "Бекон",
+          "mass": 50,
+          "price": 70
+        },
+        {
+          "id": "4",
+          "title": "Ветчина",
+          "mass": 50,
+          "price": 70
+        },
+        {
+          "id": "5",
+          "title": "Ананас",
+          "mass": 50,
+          "price": 55
+        }
       ]
     },
     {
@@ -96,8 +124,36 @@
       "mass": 250,
       "discount": 10,
       "services": [
-        {"title": "456", "id": "3"},
-        {"title": "789", "id": "4"}
+        {
+          "id": "1",
+          "title": "Дор Блю",
+          "mass": 30,
+          "price": 1016
+        },
+        {
+          "id": "2",
+          "title": "4 сыра",
+          "mass": 140,
+          "price": 262
+        },
+        {
+          "id": "3",
+          "title": "Бекон",
+          "mass": 50,
+          "price": 70
+        },
+        {
+          "id": "4",
+          "title": "Ветчина",
+          "mass": 50,
+          "price": 70
+        },
+        {
+          "id": "5",
+          "title": "Ананас",
+          "mass": 50,
+          "price": 55
+        }
       ]
     },
     {
@@ -110,8 +166,36 @@
       "mass": 300,
       "discount": 15,
       "services": [
-        {"title": "service5", "id": "9"},
-        {"title": "service6", "id": "10"}
+        {
+          "id": "1",
+          "title": "Дор Блю",
+          "mass": 30,
+          "price": 1016
+        },
+        {
+          "id": "2",
+          "title": "4 сыра",
+          "mass": 140,
+          "price": 262
+        },
+        {
+          "id": "3",
+          "title": "Бекон",
+          "mass": 50,
+          "price": 70
+        },
+        {
+          "id": "4",
+          "title": "Ветчина",
+          "mass": 50,
+          "price": 70
+        },
+        {
+          "id": "5",
+          "title": "Ананас",
+          "mass": 50,
+          "price": 55
+        }
       ]
     },
     {
@@ -124,8 +208,36 @@
       "mass": 300,
       "discount": 899,
       "services": [
-        {"title": "servic12e5", "id": "12231"},
-        {"title": "service12", "id": "wawd2130"}
+        {
+          "id": "1",
+          "title": "Дор Блю",
+          "mass": 30,
+          "price": 1016
+        },
+        {
+          "id": "2",
+          "title": "4 сыра",
+          "mass": 140,
+          "price": 262
+        },
+        {
+          "id": "3",
+          "title": "Бекон",
+          "mass": 50,
+          "price": 70
+        },
+        {
+          "id": "4",
+          "title": "Ветчина",
+          "mass": 50,
+          "price": 70
+        },
+        {
+          "id": "5",
+          "title": "Ананас",
+          "mass": 50,
+          "price": 55
+        }
       ]
     }
   ]
