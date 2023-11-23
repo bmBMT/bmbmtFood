@@ -1,19 +1,19 @@
 {
   "carousel": [
     {
-      "image_url":"https://upsushi.goulash.tech/__/images/storage/6512aeab0a809.jpg",
+      "image":"https://ae04.alicdn.com/kf/HTB1r45ySXXXXXcFXpXXq6xXFXXX9.jpg",
       "alt":"Mercado"
     },
     {
-      "image_url":"https://upsushi.goulash.tech/__/images/storage/6512aeab0a809.jpg",
+      "image":"https://cdn.sribu.com/assets/media/contest_detail/2016/4/desain-spanduk-untuk-food-court-5710a4f5f714f2ed4c000003/a6ab7aa3a4.jpg",
       "alt":"Entrega Grátis"
     },
     {
-      "image_url":"https://upsushi.goulash.tech/__/images/storage/6512aeab0a809.jpg",
+      "image":"https://sun9-29.userapi.com/impf/DTWyxHAdNhlSGqR8izH390DS8e3QDoF2JrjXUA/-MaBzdY3VCc.jpg?size=1590x530&quality=95&crop=0,0,1200,400&sign=e69d55a9c283574b84273313bf41ae1e&type=cover_group",
       "alt":"Descobertas"
     },
     {
-      "image_url":"https://upsushi.goulash.tech/__/images/storage/6512aeab0a809.jpg",
+      "image":"https://adresnie-tablichki.ru/upload/category/bannery/kafe/fon_dlya_menyu_fast_fuda.jpg",
       "alt":"Desconto"
     }
   ],
